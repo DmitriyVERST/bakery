@@ -19,7 +19,8 @@ JavaScript — для реализации интерактивных функц
 Склонируйте репозиторий командой:
 bash
 
-Run
-Copy code
-git clone https://github.com/Kirillmlk/Bakery
+Клонируйте репозиторий командой:
 
+```bash
+https://github.com/DmitriyVERST/bakery.git
+```
